@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "Running tests..."
 
 EXIT_STATUS=0
