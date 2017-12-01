@@ -13,7 +13,7 @@ class DefaultHomePageSpec extends GebSpec {
 
         then:
 
-        $('h1').text() == 'Welcome to Grails'
+        $('h1').text() == 'Welcome to Spring Boot'
 
     }
 }
